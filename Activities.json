@@ -1,0 +1,634 @@
+[
+  {
+    "key": 784,
+    "id": "38-lcd_tv",
+    "title": "Watching a 42 inch LCD TV for an hour",
+    "source": "https://www.thehomehacksdiy.com/how-much-electricity-power-does-a-tv-use/",
+    "image_path": "38/lcd_tv.jpeg",
+    "consumption_in_wh": 120
+  },
+  {
+    "key": 785,
+    "id": "38-router",
+    "title": "Having your Wi-Fi router on for a day",
+    "source": "https://www.kompulsa.com/how-much-power-are-your-appliances-consuming/#power_consumption_of_wireless_routers",
+    "image_path": "38/router.png",
+    "consumption_in_wh": 84
+  },
+  {
+    "key": 786,
+    "id": "38-paper-cup",
+    "title": "Produce a single paper cup",
+    "source": "https://sustainability.tufts.edu/wp-content/uploads/Comparativelifecyclecosts.pdf",
+    "image_path": "38/paper-cup.jpg",
+    "consumption_in_wh": 153
+  },
+  {
+    "key": 787,
+    "id": "38-air-conditioner",
+    "title": "Air conditioner in 1 year",
+    "source": "https://www.apge.com/how-much-electricity-do-devices-use",
+    "image_path": "38/air-conditioner.jpg",
+    "consumption_in_wh": 4500000
+  },
+  {
+    "key": 788,
+    "id": "38-washing_machine",
+    "title": "Washing clothes with hot water in a washing machine for an hour",
+    "source": "https://letsavelectricity.com/calculate-power-consumption-of-a-washing-machine/",
+    "image_path": "38/washing_machine.jpeg",
+    "consumption_in_wh": 2000
+  },
+  {
+    "key": 789,
+    "id": "38-ledbulb",
+    "title": "Having an LED lightbulb on for 6 hours",
+    "source": "https://learn.eartheasy.com/guides/led-light-bulbs-comparison-charts/",
+    "image_path": "38/ledbulb.png",
+    "consumption_in_wh": 51
+  },
+  {
+    "key": 790,
+    "id": "38-produce-kg-of-beef",
+    "title": "Producing 1kg of beef. (2019)",
+    "source": "https://www.saveonenergy.com/learning-center/post/american-food-production-requires-energy/",
+    "image_path": "38/produce-kg-of-beef.jpg",
+    "consumption_in_wh": 70000
+  },
+  {
+    "key": 791,
+    "id": "38-produce-smartphone",
+    "title": "Producing a smartphone. (2014)",
+    "source": "https://www.theatlantic.com/technology/archive/2014/10/the-energy-in-things/381557/",
+    "image_path": "38/produce-smartphone.jpg",
+    "consumption_in_wh": 300000
+  },
+  {
+    "key": 792,
+    "id": "38-mobile-data",
+    "title": "Using 10 GB of mobile data. (2013)",
+    "source": "https://science.time.com/2013/08/14/power-drain-the-digital-cloud-is-using-more-energy-than-you-think/",
+    "image_path": "38/mobile-data.jpg",
+    "consumption_in_wh": 200000
+  },
+  {
+    "key": 793,
+    "id": "38-lighting",
+    "title": "Average yearly household lighting",
+    "source": "https://www.apge.com/how-much-electricity-do-devices-use",
+    "image_path": "38/lighting.jpg",
+    "consumption_in_wh": 1100000
+  },
+  {
+    "key": 794,
+    "id": "38-play-computer-games",
+    "title": "Gaming on computer for an hour. (2022)",
+    "source": "https://computerinfobits.com/how-much-energy-do-gaming-computers-use/",
+    "image_path": "38/play-computer-games.jpg",
+    "consumption_in_wh": 500
+  },
+  {
+    "key": 795,
+    "id": "38-clock",
+    "title": "Powering an alarm clock for one day",
+    "source": "https://energyusecalculator.com/electricity_alarmclock.htm",
+    "image_path": "38/clock.png",
+    "consumption_in_wh": 2
+  },
+  {
+    "key": 796,
+    "id": "38-litre-of-milk",
+    "title": "Produce 1 litre of milk",
+    "source": "https://www.researchgate.net/figure/Breakdown-of-electricity-consumption-per-liter-of-milk-produced-including-cost-of_tbl3_255175693",
+    "image_path": "38/litre-of-milk.jpg",
+    "consumption_in_wh": 42
+  },
+  {
+    "key": 797,
+    "id": "38-projector",
+    "title": "Using an average projector for two hours",
+    "source": "https://yourbusiness.azcentral.com/electrical-usage-led-tv-vs-projector-11455.html",
+    "image_path": "38/projector.jpeg",
+    "consumption_in_wh": 600
+  },
+  {
+    "key": 798,
+    "id": "38-electric-car",
+    "title": "Using a electric car for 1 month",
+    "source": "https://providerpower.com/power-to-help/how-much-electricity-does-an-electric-car-use/",
+    "image_path": "38/electric-car.png",
+    "consumption_in_wh": 341000
+  },
+  {
+    "key": 799,
+    "id": "38-wash-hands",
+    "title": "Wash your hands 1000 times at 15°C",
+    "source": "https://www.researchgate.net/figure/Energy-consumption-related-to-water-heating-for-hand-washing_fig1_316947805",
+    "image_path": "38/wash-hands.jpg",
+    "consumption_in_wh": 4
+  },
+  {
+    "key": 800,
+    "id": "38-kettle",
+    "title": "Boiling 1.7 Litres of water in an electric kettle",
+    "source": "https://www.kompulsa.com/how-much-power-are-your-appliances-consuming/#power_consumption_of_electric_kettles",
+    "image_path": "38/kettle.png",
+    "consumption_in_wh": 150
+  },
+  {
+    "key": 801,
+    "id": "78-usingIron",
+    "title": "Using an iron for 60 minutes",
+    "source": "https://www.ovoenergy.com/guides/energy-guides/what-is-a-kwh-kw-and-kwh-explained",
+    "image_path": "78/usingIron.jpg",
+    "consumption_in_wh": 1000
+  },
+  {
+    "key": 802,
+    "id": "78-bitcoinSingleTransaction",
+    "title": "Single Bitcoin Transaction Footprint",
+    "source": "https://digiconomist.net/bitcoin-energy-consumption",
+    "image_path": "78/bitcoinSingleTransaction.jpg",
+    "consumption_in_wh": 2291940
+  },
+  {
+    "key": 803,
+    "id": "78-hottub",
+    "title": "Running a avarage hottub for a day",
+    "source": "https://www.hier.nu/themas/huishoudelijke-apparaten/wist-je-dat-deze-4-apparaten-zoveel-stroom-verbruiken",
+    "image_path": "78/hottub.jpg",
+    "consumption_in_wh": 5970
+  },
+  {
+    "key": 804,
+    "id": "78-portable_heater",
+    "title": "Using a portable heater for 1 hour",
+    "source": "https://www.siliconvalleypower.com/residents/save-energy/appliance-energy-use-chart",
+    "image_path": "78/portable_heater.png",
+    "consumption_in_wh": 1500
+  },
+  {
+    "key": 805,
+    "id": "78-phone",
+    "title": "Fully charging a mobile phone",
+    "source": "https://blog.arcadia.com/electricity-costs-10-key-household-products/",
+    "image_path": "78/phone.jpg",
+    "consumption_in_wh": 11
+  },
+  {
+    "key": 806,
+    "id": "78-broadbandRouter",
+    "title": "Keeping a broadband router on for five days",
+    "source": "https://www.ovoenergy.com/guides/energy-guides/what-is-a-kwh-kw-and-kwh-explained",
+    "image_path": "78/broadbandRouter.png",
+    "consumption_in_wh": 1000
+  },
+  {
+    "key": 807,
+    "id": "78-electricCar",
+    "title": "Driving an electric car for 100km",
+    "source": "https://www.motorbiscuit.com/how-many-kilowatt-hours-does-electric-car-use/",
+    "image_path": "78/electricCar.jpg",
+    "consumption_in_wh": 30000
+  },
+  {
+    "key": 808,
+    "id": "78-ceiling_fan",
+    "title": "Using a ceiling fan for 1 hour",
+    "source": "https://www.siliconvalleypower.com/residents/save-energy/appliance-energy-use-chart",
+    "image_path": "78/ceiling_fan.png",
+    "consumption_in_wh": 50
+  },
+  {
+    "key": 809,
+    "id": "78-toaster",
+    "title": "Using a toaster oven for 1 hour",
+    "source": "https://www.siliconvalleypower.com/residents/save-energy/appliance-energy-use-chart",
+    "image_path": "78/toaster.jpeg",
+    "consumption_in_wh": 750
+  },
+  {
+    "key": 810,
+    "id": "78-electric_bike",
+    "title": "Driving an electric bike for 13 kilometres",
+    "source": "https://fietstest.nl/actieradius-elektrische-fiets/#:~:text=Bij%20de%20meeste%20e%2Dbike,al%20te%20veel%20eigen%20inspanning).",
+    "image_path": "78/electric_bike.jpg",
+    "consumption_in_wh": 100
+  },
+  {
+    "key": 811,
+    "id": "78-television",
+    "title": "Using a 65 inch LED 4K UHD Television for 1 hour",
+    "source": "https://www.siliconvalleypower.com/residents/save-energy/appliance-energy-use-chart",
+    "image_path": "78/television.png",
+    "consumption_in_wh": 150
+  },
+  {
+    "key": 812,
+    "id": "78-iPhone",
+    "title": "Charging an iPhone",
+    "source": "https://www.forbes.com/sites/christopherhelman/2013/09/07/how-much-energy-does-your-iphone-and-other-devices-use-and-what-to-do-about-it/?sh=3c9c8cc32f70",
+    "image_path": "78/iPhone.jpg",
+    "consumption_in_wh": 5
+  },
+  {
+    "key": 813,
+    "id": "78-oven",
+    "title": "Using an oven for 1 hour",
+    "source": "https://www.siliconvalleypower.com/residents/save-energy/appliance-energy-use-chart",
+    "image_path": "78/oven.png",
+    "consumption_in_wh": 2300
+  },
+  {
+    "key": 814,
+    "id": "78-3d_printer",
+    "title": "Using a 3D printer for 1 hour",
+    "source": "https://3dstartpoint.com/3d-print-power-consumption-how-much-power-does-a-3d-printer-use/#:~:text=What%20they%20found%20is%20that,an%20hour%20is%2050%20watts.",
+    "image_path": "78/3d_printer.jpg",
+    "consumption_in_wh": 50
+  },
+  {
+    "key": 815,
+    "id": "78-electricBlanket",
+    "title": "Keeping an electric blanket on all night",
+    "source": "https://www.ovoenergy.com/guides/energy-guides/what-is-a-kwh-kw-and-kwh-explained",
+    "image_path": "78/electricBlanket.jpg",
+    "consumption_in_wh": 1000
+  },
+  {
+    "key": 816,
+    "id": "78-airconditioner",
+    "title": "Using an air conditioner for 30 minutes",
+    "source": "https://americanhomewater.com/how-much-power-does-an-air-conditioner-use/",
+    "image_path": "78/airconditioner.jpg",
+    "consumption_in_wh": 1500
+  },
+  {
+    "key": 817,
+    "id": "78-washingMachine",
+    "title": "Using a washing machine for an hour",
+    "source": "https://letsavelectricity.com/calculate-power-consumption-of-a-washing-machine/",
+    "image_path": "78/washingMachine.jpg",
+    "consumption_in_wh": 2000
+  },
+  {
+    "key": 818,
+    "id": "78-lamp",
+    "title": "Using a lamp for 6 hours",
+    "source": "https://ledlightinginfo.com/how-much-electricity-does-it-take-to-turn-on-a-light",
+    "image_path": "78/lamp.jpg",
+    "consumption_in_wh": 300
+  },
+  {
+    "key": 819,
+    "id": "78-mixer",
+    "title": "Using a mixer for 1 hour",
+    "source": "https://letsavelectricity.com/mixer-power-consumption-calculator/",
+    "image_path": "78/mixer.jpg",
+    "consumption_in_wh": 500
+  },
+  {
+    "key": 820,
+    "id": "78-fridgeYear",
+    "title": "Using fridge for a year",
+    "source": "https://news.energysage.com/how-many-watts-does-a-refrigerator-use/",
+    "image_path": "78/fridgeYear.jpg",
+    "consumption_in_wh": 1463000
+  },
+  {
+    "key": 821,
+    "id": "25-coffemachine",
+    "title": "Making an espresso in the morning",
+    "source": "https://ecocostsavings.com/coffee-maker-wattage/#espresso-coffee-machine-wattage",
+    "image_path": "25/coffemachine.png",
+    "consumption_in_wh": 30
+  },
+  {
+    "key": 822,
+    "id": "25-coolmisthumidifier",
+    "title": "Using a cool mist humidifier for 8 hours",
+    "source": "https://www.directenergy.com/learning-center/how-much-energy-humidifier-use",
+    "image_path": "25/coolmisthumidifier.jpg",
+    "consumption_in_wh": 320
+  },
+  {
+    "key": 823,
+    "id": "25-laptop",
+    "title": "Fully charging the laptop project laptop (HP ZBook Power G7)",
+    "source": "https://www.tudelft.nl/studenten/ict/ict-voorzieningen/laptopproject/modellen-2021-2022",
+    "image_path": "25/laptop.jpg",
+    "consumption_in_wh": 83
+  },
+  {
+    "key": 824,
+    "id": "25-electricblanket",
+    "title": "Sitting under an avarage electric blanket for 3 hours",
+    "source": "https://www.sleepadvisor.org/electric-blanket-vs-space-heater/#:~:text=Wattage,isn't%20recommended%20for%20safety.",
+    "image_path": "25/electricblanket.jpg",
+    "consumption_in_wh": 900
+  },
+  {
+    "key": 825,
+    "id": "25-electrickettel",
+    "title": "Boiling water in an electric kettel",
+    "source": "https://www.electricalclassroom.com/power-energy-usage-of-electric-kettle/",
+    "image_path": "25/electrickettel.jpg",
+    "consumption_in_wh": 50
+  },
+  {
+    "key": 826,
+    "id": "25-ps5",
+    "title": "Playing PlayStation 5 for 5 hours",
+    "source": "https://www.playstation.com/en-gb/legal/ecodesign/",
+    "image_path": "25/ps5.jpg",
+    "consumption_in_wh": 1000
+  },
+  {
+    "key": 827,
+    "id": "25-dishwasher",
+    "title": "Running a dishwasher for 1 hour",
+    "source": "https://www.inspirecleanenergy.com/blog/sustainable-living/cost-to-run-dishwasher",
+    "image_path": "25/dishwasher.jpg",
+    "consumption_in_wh": 1800
+  },
+  {
+    "key": 828,
+    "id": "25-warmmisthumidifier",
+    "title": "Using a warm mist humidifier for 8 hours",
+    "source": "https://www.directenergy.com/learning-center/how-much-energy-humidifier-use",
+    "image_path": "25/warmmisthumidifier.jpg",
+    "consumption_in_wh": 2080
+  },
+  {
+    "key": 829,
+    "id": "25-toaster",
+    "title": "Toasting 2 Slices of bread in a toaster",
+    "source": "https://www.siliconvalleypower.com/residents/save-energy/appliance-energy-use-chart",
+    "image_path": "25/toaster.jpg",
+    "consumption_in_wh": 40
+  },
+  {
+    "key": 830,
+    "id": "25-electricpiano",
+    "title": "Play an electric piano for 2 hours",
+    "source": "https://joteo.net/electricity-usage-calculator/electricity-usage-of-a-piano",
+    "image_path": "25/electricpiano.png",
+    "consumption_in_wh": 28
+  },
+  {
+    "key": 831,
+    "id": "25-psvr",
+    "title": "PSVR 2 hour gameplay",
+    "source": "https://nerdburglars.net/hardwareguides/psvr-power-consumption/#:~:text=Since%20the%20amount%20of%20power,is%20using%20about%2015%20watts.",
+    "image_path": "25/psvr.png",
+    "consumption_in_wh": 30
+  },
+  {
+    "key": 832,
+    "id": "25-stove",
+    "title": "Cooking dinner on the stove for 1 hour",
+    "source": "https://www.siliconvalleypower.com/residents/save-energy/appliance-energy-use-chart",
+    "image_path": "25/stove.jpg",
+    "consumption_in_wh": 1500
+  },
+  {
+    "key": 833,
+    "id": "25-massagechair",
+    "title": "Using a massage chair for 15 minutes",
+    "source": "https://vyralx.com/how-much-electricity-does-a-massage-chair-use/",
+    "image_path": "25/massagechair.jpg",
+    "consumption_in_wh": 50
+  },
+  {
+    "key": 834,
+    "id": "25-cookerhood",
+    "title": "Using a cooker hood for an hour",
+    "source": "https://www.electricalclassroom.com/power-and-energy-usage-of-cooker-hood/",
+    "image_path": "25/cookerhood.jpg",
+    "consumption_in_wh": 105
+  },
+  {
+    "key": 835,
+    "id": "25-lightbulb",
+    "title": "Leaving a 60 watt lightbulb for a year",
+    "source": "https://insights.regencylighting.com/kw-vs-kwh-how-much-energy-is-my-lighting-using",
+    "image_path": "25/lightbulb.jpg",
+    "consumption_in_wh": 526000
+  },
+  {
+    "key": 836,
+    "id": "25-incandescent",
+    "title": "Operating an incandescent bulb for 2,000 hours",
+    "source": "https://insights.regencylighting.com/kw-vs-kwh-how-much-energy-is-my-lighting-using",
+    "image_path": "25/incandescent.jpg",
+    "consumption_in_wh": 120000
+  },
+  {
+    "key": 837,
+    "id": "25-ledlight",
+    "title": "Leaving a led bulb on for 4 hours",
+    "source": "https://learn.eartheasy.com/guides/led-light-bulbs-comparison-charts/",
+    "image_path": "25/ledlight.jpg",
+    "consumption_in_wh": 34
+  },
+  {
+    "key": 838,
+    "id": "25-tv",
+    "title": "Using your tv for a 12 hours",
+    "source": "https://letsavelectricity.com/how-much-power-does-a-tv-use-in-an-hour/",
+    "image_path": "25/tv.jpg",
+    "consumption_in_wh": 1200
+  },
+  {
+    "key": 839,
+    "id": "25-radiantheater",
+    "title": "Using a home radiant heater for one hour",
+    "source": "https://www.siliconvalleypower.com/home/showpublisheddocument/9223/636833977714270000",
+    "image_path": "25/radiantheater.jpg",
+    "consumption_in_wh": 1500
+  },
+  {
+    "key": 840,
+    "id": "36-ironing",
+    "title": "Ironing your clothers for an hour",
+    "source": "https://www.siliconvalleypower.com/residents/save-energy/appliance-energy-use-chart",
+    "image_path": "36/ironing.jpg",
+    "consumption_in_wh": 1080
+  },
+  {
+    "key": 841,
+    "id": "36-charging-phone",
+    "title": "Fully charging your phone",
+    "source": "https://www.forbes.com/sites/christopherhelman/2013/09/07/how-much-energy-does-your-iphone-and-other-devices-use-and-what-to-do-about-it/?sh=7d5092bc2f70",
+    "image_path": "36/charging-phone.jpg",
+    "consumption_in_wh": 6
+  },
+  {
+    "key": 842,
+    "id": "36-canadian-person",
+    "title": "Keeping the average Canadian person alive for a lifetime",
+    "source": "https://signatureelectric.ca/blog/how-much-energy-does-the-average-person-use-in-a-lifetime/",
+    "image_path": "36/canadian-person.jpg",
+    "consumption_in_wh": 562500000
+  },
+  {
+    "key": 843,
+    "id": "36-electric-heater",
+    "title": "Heating up the water in a home using the electric water heater for a month",
+    "source": "https://www.siliconvalleypower.com/residents/save-energy/appliance-energy-use-chart",
+    "image_path": "36/electric-heater.jpg",
+    "consumption_in_wh": 450000
+  },
+  {
+    "key": 844,
+    "id": "36-hair-dryer",
+    "title": "Using a hair dryer for 30 minutes",
+    "source": "https://blog.arcadia.com/electricity-costs-10-key-household-products/",
+    "image_path": "36/hair-dryer.jpg",
+    "consumption_in_wh": 600
+  },
+  {
+    "key": 845,
+    "id": "36-apple-tv",
+    "title": "Using Apple TV for 2 hours",
+    "source": "https://www.daftlogic.com/information-appliance-power-consumption.htm",
+    "image_path": "36/apple-tv.jpg",
+    "consumption_in_wh": 9
+  },
+  {
+    "key": 846,
+    "id": "36-dishwasher",
+    "title": "Dishwasher for an hour",
+    "source": "https://blog.arcadia.com/electricity-costs-10-key-household-products/",
+    "image_path": "36/dishwasher.png",
+    "consumption_in_wh": 1800
+  },
+  {
+    "key": 847,
+    "id": "36-waffles",
+    "title": "Making 4 waffles for breakfast",
+    "source": "https://www.siliconvalleypower.com/residents/save-energy/appliance-energy-use-chart",
+    "image_path": "36/waffles.png",
+    "consumption_in_wh": 330
+  },
+  {
+    "key": 848,
+    "id": "36-toasts",
+    "title": "Toasting two toasts for a breakfast",
+    "source": "https://www.siliconvalleypower.com/residents/save-energy/appliance-energy-use-chart",
+    "image_path": "36/toasts.jpg",
+    "consumption_in_wh": 40
+  },
+  {
+    "key": 849,
+    "id": "36-ceiling-fan",
+    "title": "Using a ceiling fan for an hour",
+    "source": "https://www.siliconvalleypower.com/residents/save-energy/appliance-energy-use-chart",
+    "image_path": "36/ceiling-fan.jpg",
+    "consumption_in_wh": 50
+  },
+  {
+    "key": 850,
+    "id": "36-cfl-light",
+    "title": "CFL light bulb for one hour",
+    "source": "https://blog.arcadia.com/electricity-costs-10-key-household-products/",
+    "image_path": "36/cfl-light.jpg",
+    "consumption_in_wh": 14
+  },
+  {
+    "key": 851,
+    "id": "36-incandescent-bulb",
+    "title": "Having an incandescent bulb on for one hour",
+    "source": "https://blog.arcadia.com/electricity-costs-10-key-household-products/",
+    "image_path": "36/incandescent-bulb.jpg",
+    "consumption_in_wh": 60
+  },
+  {
+    "key": 852,
+    "id": "36-electric-furnace",
+    "title": "Using an electric furnace for an hour",
+    "source": "https://www.siliconvalleypower.com/residents/save-energy/appliance-energy-use-chart",
+    "image_path": "36/electric-furnace.png",
+    "consumption_in_wh": 10500
+  },
+  {
+    "key": 853,
+    "id": "36-washing-machine",
+    "title": "Running a washing machine for an hour",
+    "source": "https://letsavelectricity.com/calculate-power-consumption-of-a-washing-machine/",
+    "image_path": "36/washing-machine.jpg",
+    "consumption_in_wh": 2000
+  },
+  {
+    "key": 854,
+    "id": "36-dehumidifier",
+    "title": "Dehumidifying your air in a room for a night",
+    "source": "https://www.daftlogic.com/information-appliance-power-consumption.htm",
+    "image_path": "36/dehumidifier.jpg",
+    "consumption_in_wh": 1920
+  },
+  {
+    "key": 855,
+    "id": "36-googling",
+    "title": "Googling something 1000 times",
+    "source": "https://store.chipkin.com/articles/did-you-know-it-takes-00003-kwh-per-google-search-and-more",
+    "image_path": "36/googling.png",
+    "consumption_in_wh": 300
+  },
+  {
+    "key": 856,
+    "id": "36-pc",
+    "title": "Running your PC 8 hours a day for a year",
+    "source": "https://www.energuide.be/en/questions-answers/how-much-power-does-a-computer-use-and-how-much-co2-does-that-represent/54/",
+    "image_path": "36/pc.jpg",
+    "consumption_in_wh": 650000
+  },
+  {
+    "key": 857,
+    "id": "36-dutch-house",
+    "title": "Maintaining a typical Dutch home for a year",
+    "source": "https://www.amsterdamtips.com/utilities-amsterdam",
+    "image_path": "36/dutch-house.jpg",
+    "consumption_in_wh": 3100000
+  },
+  {
+    "key": 858,
+    "id": "36-charging-tesla",
+    "title": "Charging a Tesla Roadster",
+    "source": "https://ev-database.org/car/1167/Tesla-Roadster",
+    "image_path": "36/charging-tesla.jpg",
+    "consumption_in_wh": 200000
+  },
+  {
+    "key": 859,
+    "id": "36-refrigerator",
+    "title": "Keeping your refrigerator on for a day",
+    "source": "https://blog.arcadia.com/electricity-costs-10-key-household-products/",
+    "image_path": "36/refrigerator.jpg",
+    "consumption_in_wh": 4320
+  },
+  {
+    "key": 860,
+    "id": "16-laptop",
+    "title": "Using an average laptop for 8 hours",
+    "source": "https://smallbusiness.chron.com/laptop-vs-pc-power-consumption-79347.html",
+    "image_path": "16/laptop.png",
+    "consumption_in_wh": 310
+  },
+  {
+    "key": 861,
+    "id": "16-elevator",
+    "title": "Going up 1 floor in an elevator",
+    "source": "http://fatknowledge.blogspot.com/2007/02/how-much-energy-does-elevator-use.html",
+    "image_path": "16/elevator.png",
+    "consumption_in_wh": 3
+  },
+  {
+    "key": 862,
+    "id": "16-hair_dryer",
+    "title": "Drying your hair for 10 minutes",
+    "source": "https://ecocostsavings.com/hair-dryer-wattage/",
+    "image_path": "16/hair_dryer.png",
+    "consumption_in_wh": 313
+  }
+]
